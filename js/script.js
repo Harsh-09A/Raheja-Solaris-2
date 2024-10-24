@@ -1,24 +1,19 @@
-
-
 // amenities
 
-$(".hover").mouseleave(
-  function () {
-    $(this).removeClass("hover");
-  }
-);
+$(".hover").mouseleave(function () {
+  $(this).removeClass("hover");
+});
 
-// popup function 
+// popup function
 $(window).ready(function () {
   setTimeout(function () {
-    $('#popupModal').modal("show")
-  }, 3000)
-})
-
+    $("#popupModal").modal("show");
+  }, 3000);
+});
 
 // gallery
 
-"use strict";
+("use strict");
 (function () {
   window.onmouseover = () => {
     const obj = document.querySelector("#gallery");
