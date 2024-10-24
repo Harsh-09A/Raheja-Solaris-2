@@ -219,7 +219,7 @@ body {
 /* Price */
 
 #configuration_section {
-  background-image: url(../images/gallery/g7.jpg);
+  background-image: url(../images/extra/banner.webp);
   background-position: center;
   background-attachment: fixed;
   background-size: cover;
@@ -448,11 +448,11 @@ body {
 }
 
 .amenities-card .img1 {
-  background-image: url(../images/amenities/banquethall_1.webp);
+  background-image: url(../images/amenities/MeditationZone.jpg);
 }
 
 .amenities-card .img2 {
-  background-image: url(../images/amenities/swimmingpool_1.webp);
+  background-image: url(../images/amenities/SwimmingPool.jpg);
 }
 
 .amenities-card .img3 {
@@ -460,7 +460,7 @@ body {
 }
 
 .amenities-card .img4 {
-  background-image: url(../images/amenities/sports_arena.webp);
+  background-image: url(../images/amenities/ReflexologyPath.jpg);
 }
 
 .amenities-card .img5 {
@@ -468,7 +468,7 @@ body {
 }
 
 .amenities-card .img6 {
-  background-image: url(../images/amenities/multipurposecourt_1.webp);
+  background-image: url(../images/amenities/Gazebo.jpg);
 }
 
 .amenities-card .img7 {
@@ -476,7 +476,7 @@ body {
 }
 
 .amenities-card .img8 {
-  background-image: url(../images/amenities/joggingtrack_1.webp);
+  background-image: url(../images/amenities/JoggingTrack.jpg);
 }
 
 .amenities-card h4 {
